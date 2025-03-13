@@ -1,0 +1,7 @@
+
+# Extensions
+*.fsdb
+
+# Directories
+.vscode
+
