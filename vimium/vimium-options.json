@@ -1,0 +1,6 @@
+{
+  "keyMappings": "unmapAll\n\nmap <a-k> scrollUp count=4\nmap <a-˚> scrollUp count=4\nmap <a-j> scrollDown count=4\nmap <a-∆> scrollDown count=4\n\nmap <a-K> scrollToTop\nmap <a-> scrollToTop\nmap <a-J> scrollToBottom\nmap <a-Ô> scrollToBottom\n\nmap <a-L> nextTab\nmap <a-Ò> nextTab\nmap <a-H> previousTab\nmap <a-Ó> previousTab\n\nmap <a-w> removeTab\nmap <a-∑> removeTab\nmap <a-u> restoreTab\nmap <a-¨> restoreTab\n\nmap <a-f> LinkHints.activateMode\nmap <a-ƒ> LinkHints.activateMode\nmap <a-F> LinkHints.activateModeToOpenInNewTab\nmap <a-Ï> LinkHints.activateModeToOpenInNewTab\n\nmap <a-o> Vomnibar.activate\nmap <a-ø> Vomnibar.activate\nmap <a-O> Vomnibar.activateInNewTab\nmap <a-Ø> Vomnibar.activateInNewTab",
+  "linkHintCharacters": "asdfgzxcvbqwert",
+  "ignoreKeyboardLayout": true,
+  "settingsVersion": "2.2.1"
+}
